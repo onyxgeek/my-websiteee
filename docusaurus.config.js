@@ -14,7 +14,7 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/my-websiteee/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,10 +66,7 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/favicoon.ico',
-        },
+
         items: [
           {
             type: 'doc',
