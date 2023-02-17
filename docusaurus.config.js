@@ -64,6 +64,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        logo: {
+          alt: 'Site Logo',
+          src: 'img/favicoon.ico',
+          width: 32,
+          height: 32,
+        },
         title: '',
 
         items: [
