@@ -11,16 +11,15 @@ const config = {
   favicon: 'img/favicoon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: '',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-websiteee/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'onyxgeek', // Usually your GitHub org/user name.
-  projectName: 'my-websiteee', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: '', // Usually your GitHub org/user name.
+  projectName: '', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
