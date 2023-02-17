@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'University Portfolio',
-  tagline: 'Study, eat, repeat',
+  tagline: 'Study, eat, repeat.',
   favicon: 'img/favicoon.ico',
 
   // Set the production url of your site here
