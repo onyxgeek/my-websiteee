@@ -63,3 +63,4 @@ function bubbleSort(array){
     console.log(array);
 }
 ```
+Here is everything so warm and clear
