@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Weekly Update',
-                to: '/docs/intro',
+                to: '/blog/PCLP',
               },
             ],
           },
